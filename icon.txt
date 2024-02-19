@@ -1,0 +1,18 @@
+<i class="fa-brands fa-youtube"></i>
+<i class="fa-solid fa-house"></i>
+<i class="fa-solid fa-shop"></i>
+<i class="fa-solid fa-bars"></i>
+<i class="fa-solid fa-plus"></i>
+<i class="fa-solid fa-comment-dots"></i>
+
+
+Whack-a-Mole Challenge
+Mole Hunter Pro
+ReactMole Clicker
+Mole Mania
+Mole Whacker Game
+Mole Click Adventure
+ReactWhack Challenge
+
+<i class="fa-solid fa-bell"></i>
+<i class="fa-solid fa-magnifying-glass"></i>
